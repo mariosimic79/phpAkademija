@@ -1,0 +1,7 @@
+Ime i prezime: Marko
+Email: sd@asd
+Smjer: asdsa
+Godina: 3
+Programski jezici: Javascript,PHP,
+Motivacija: sda
+Predznanje: sda

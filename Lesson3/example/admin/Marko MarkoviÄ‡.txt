@@ -1,0 +1,7 @@
+Ime i prezime: Marko Marković
+Email: example@example.com
+Smjer: Informatika
+Godina: 2
+Programski jezici: HTML,Javascript,PHP,Java,
+Motivacija: Moja motivacija
+Predznanje: Imam :)
